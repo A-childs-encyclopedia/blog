@@ -3,7 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.3.3/blog.tsx";
 blog({
   title: "Encyclopedia",
   author: "Encyclopedia",
-  avatar: "./cc.png",
+  avatar: "./cc.svg",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:abdhllah005@gmail.com" },
