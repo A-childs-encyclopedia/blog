@@ -1,13 +1,13 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 blog({
-  title: "Ryan Dahl",
-  author: "Ryan Dahl",
+  title: "Encyclopedia",
+  author: "Encyclopedia",
   avatar: "./ry.jpg",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "mailto:ry@tinyclouds.org" },
-    { title: "GitHub", url: "https://github.com/ry" },
+    { title: "Email", url: "mailto:abdhllah005@gmail.com" },
+    { title: "GitHub", url: "https://github.com/A-childs-encyclopedia" },
   ],
   background: "#fff",
   middlewares: [
